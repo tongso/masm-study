@@ -1,2 +1,1 @@
-# masm-study
-Example code for MASM study
+# 本人记录汇编语言学习过程的仓库，教材是《汇编语言第4版》
